@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+O:\CDAC\eclipse\java codes\Library management system\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1670784822.index
+\Library_mng_system2\src
+O:\CDAC\eclipse\java codes\Library management system\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3089338602.index
+\Advance Java mini project\src\main\java
